@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+We use various AI technologies, including Large Language Models, to analyse the matters close to the heart of Singaporeans. 
