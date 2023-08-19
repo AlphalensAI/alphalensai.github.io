@@ -1,0 +1,23 @@
+---
+---
+@import "{{ site.theme }}";
+
+.site-header{
+    background-color: #1F2937;
+}
+
+.site-title{
+    color: #FFFFFF !important;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.post-link{
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.read-more-link{
+    color:#1F2937 !important;
+    font-weight: 500;
+}
